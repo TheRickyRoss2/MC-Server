@@ -1,0 +1,10 @@
+worlds:
+  load:
+    default:
+    - boneyard
+    - boneyard_nether
+    - boneyard_the_end
+    custom:
+    - Staffworld
+    - Plots
+    - Battledome

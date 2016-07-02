@@ -1,0 +1,52 @@
+MoreWorlds:
+  boneyard:
+    KeepSpawnInMemory: 'true'
+    AllowMonsters: 'true'
+    AllowAnimals: 'true'
+    Difficulty: '1'
+    defaultGamemode: '0'
+    PVP: 'true'
+  boneyard_nether:
+    KeepSpawnInMemory: 'true'
+    AllowMonsters: 'true'
+    AllowAnimals: 'true'
+    Difficulty: '1'
+    defaultGamemode: '0'
+    PVP: 'true'
+  boneyard_the_end:
+    KeepSpawnInMemory: 'true'
+    AllowMonsters: 'true'
+    AllowAnimals: 'true'
+    Difficulty: '1'
+    defaultGamemode: '0'
+    PVP: 'true'
+  staffworld:
+    Type: flat
+    Enviroment: normal
+    Structures: 'false'
+    KeepSpawnInMemory: 'true'
+    AllowMonsters: 'true'
+    AllowAnimals: 'true'
+    Difficulty: '1'
+    defaultGamemode: '0'
+    PVP: 'true'
+  plots:
+    Enviroment: normal
+    Type: flat
+    Structures: 'false'
+    KeepSpawnInMemory: 'true'
+    AllowMonsters: 'true'
+    AllowAnimals: 'true'
+    Difficulty: '1'
+    defaultGamemode: '0'
+    PVP: 'true'
+  battledome:
+    Enviroment: normal
+    Structures: 'false'
+    Type: amplified
+    KeepSpawnInMemory: 'true'
+    AllowMonsters: 'true'
+    AllowAnimals: 'true'
+    Difficulty: '1'
+    defaultGamemode: '0'
+    PVP: 'true'

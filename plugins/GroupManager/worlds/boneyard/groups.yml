@@ -1,0 +1,361 @@
+# Group inheritance
+#
+# Any inherited groups prefixed with a g: are global groups
+# and are inherited from the GlobalGroups.yml.
+#
+# Groups without the g: prefix are groups local to this world
+# and are defined in the this groups.yml file.
+#
+# Local group inheritances define your promotion tree when using 'manpromote/mandemote'
+
+groups:
+  D:
+    default: false
+    permissions: []
+    inheritance: []
+    info:
+      prefix: ''
+      build: false
+      suffix: ''
+  E:
+    default: false
+    permissions: []
+    inheritance: []
+    info:
+      prefix: ''
+      build: false
+      suffix: ''
+  F:
+    default: false
+    permissions: []
+    inheritance: []
+    info:
+      prefix: ''
+      build: false
+      suffix: ''
+  G:
+    default: false
+    permissions: []
+    inheritance: []
+    info:
+      prefix: ''
+      build: false
+      suffix: ''
+  A:
+    default: false
+    permissions:
+    - PrisonRankup.rankup
+    inheritance: []
+    info:
+      prefix: '[A]'
+      build: false
+      suffix: ''
+  B:
+    default: false
+    permissions: []
+    inheritance: []
+    info:
+      prefix: ''
+      build: false
+      suffix: ''
+  C:
+    default: false
+    permissions: []
+    inheritance: []
+    info:
+      prefix: ''
+      build: false
+      suffix: ''
+  L:
+    default: false
+    permissions: []
+    inheritance: []
+    info:
+      prefix: ''
+      build: false
+      suffix: ''
+  M:
+    default: false
+    permissions: []
+    inheritance: []
+    info:
+      prefix: ''
+      build: false
+      suffix: ''
+  N:
+    default: false
+    permissions: []
+    inheritance: []
+    info:
+      prefix: ''
+      build: false
+      suffix: ''
+  O:
+    default: false
+    permissions: []
+    inheritance: []
+    info:
+      prefix: ''
+      build: false
+      suffix: ''
+  Dev:
+    default: false
+    permissions:
+    - '*'
+    - Dev
+    - prefix
+    - rankup
+    inheritance: []
+    info:
+      prefix: '&1&k0&1Dev&k0'
+      build: false
+      suffix: ''
+  H:
+    default: false
+    permissions: []
+    inheritance: []
+    info:
+      prefix: ''
+      build: false
+      suffix: ''
+  I:
+    default: false
+    permissions: []
+    inheritance: []
+    info:
+      prefix: ''
+      build: false
+      suffix: ''
+  Admin:
+    default: false
+    permissions: []
+    inheritance:
+    - moderator
+    - g:groupmanager_admin
+    - g:bukkit_admin
+    - g:essentials_admin
+    - g:towny_admin
+    - g:vanish_admin
+    info:
+      prefix: '&[&0&l&kd&6&l&nAdmin&0&l&kd'
+      Prefix: '&[&3&lAdmin'
+      preifx: '&[&0&l&kd&6&l&nAdmin&0&l&kd'
+      build: true
+      suffix: ''
+  Free:
+    default: false
+    permissions: []
+    inheritance: []
+    info:
+      prefix: ''
+      build: false
+      suffix: ''
+  J:
+    default: false
+    permissions: []
+    inheritance: []
+    info:
+      prefix: ''
+      build: false
+      suffix: ''
+  K:
+    default: false
+    permissions: []
+    inheritance: []
+    info:
+      prefix: ''
+      build: false
+      suffix: ''
+  U:
+    default: false
+    permissions: []
+    inheritance: []
+    info:
+      prefix: ''
+      build: false
+      suffix: ''
+  T:
+    default: false
+    permissions: []
+    inheritance: []
+    info:
+      prefix: ''
+      build: false
+      suffix: ''
+  W:
+    default: false
+    permissions: []
+    inheritance: []
+    info:
+      prefix: ''
+      build: false
+      suffix: ''
+  V:
+    default: false
+    permissions: []
+    inheritance: []
+    info:
+      prefix: ''
+      build: false
+      suffix: ''
+  Q:
+    default: false
+    permissions: []
+    inheritance: []
+    info:
+      prefix: ''
+      build: false
+      suffix: ''
+  P:
+    default: false
+    permissions: []
+    inheritance: []
+    info:
+      prefix: ''
+      build: false
+      suffix: ''
+  S:
+    default: false
+    permissions: []
+    inheritance: []
+    info:
+      prefix: ''
+      build: false
+      suffix: ''
+  R:
+    default: false
+    permissions: []
+    inheritance: []
+    info:
+      prefix: ''
+      build: false
+      suffix: ''
+  Builder:
+    default: false
+    permissions:
+    - essentials.*
+    - essentials.gamemode
+    - WorldEdit
+    - WorldEdit,*
+    - worldedit.*
+    - WorldEdit.copy
+    - WorldEdit.cut
+    - WorldEdit.paste
+    - WorldEdit.set
+    - WorldEdit.wand
+    inheritance:
+    - default
+    - g:essentials_builder
+    - g:towny_builder
+    info:
+      prefix: '&0&l&kd&2&lBuilder&0&l&kd'
+      build: true
+      suffix: ''
+  Y:
+    default: false
+    permissions: []
+    inheritance: []
+    info:
+      prefix: ''
+      build: false
+      suffix: ''
+  X:
+    default: false
+    permissions: []
+    inheritance: []
+    info:
+      prefix: ''
+      build: false
+      suffix: ''
+  Z:
+    default: false
+    permissions: []
+    inheritance: []
+    info:
+      prefix: ''
+      build: false
+      suffix: ''
+  Default:
+    default: true
+    permissions:
+    - -bukkit.command.kill
+    - '*'
+    - minereset.protection.break
+    - mrl
+    inheritance:
+    - g:groupmanager_default
+    - g:bukkit_default
+    - g:essentials_default
+    - g:towny_default
+    info:
+      prefix: '&0&l[&2&lMember&0&l] &f'
+      '&0&l[&2&lMember&0&l]': '&f'
+      build: false
+      suffix: ''
+  Owner:
+    default: false
+    permissions:
+    - +vanish.effects.toggle.all
+    - -vanish.effects.*
+    - '*'
+    inheritance:
+    - admin
+    info:
+      prefix: '&0&l[&3&lOwner&0&l]'
+      build: true
+      suffix: ''
+  Coder:
+    default: false
+    permissions: []
+    inheritance: []
+    info:
+      prefix: '&4&lCoder'
+      build: false
+      suffix: ''
+  TestDev:
+    default: false
+    permissions: []
+    inheritance: []
+    info:
+      prefix: ''
+      build: false
+      suffix: ''
+  DoofusAdmin:
+    default: false
+    permissions: []
+    inheritance: []
+    info:
+      prefix: Retard
+      build: false
+      suffix: ''
+  Moderator:
+    default: false
+    permissions: []
+    inheritance:
+    - builder
+    - g:groupmanager_moderator
+    - g:bukkit_moderator
+    - g:essentials_moderator
+    - g:towny_moderator
+    - g:vanish_moderator
+    info:
+      prefix: '&5'
+      build: true
+      suffix: ''
+  '&nAdmin':
+    default: false
+    permissions: []
+    inheritance: []
+    info:
+      prefix: ''
+      Prefix: '&6&l&nAdmin'
+      build: false
+      suffix: ''
+  HeadAdmin:
+    default: false
+    permissions: []
+    inheritance: []
+    info:
+      prefix: '&0&l&kd&[&c&l&nHead&4&l&NAdmin&0&l&kd'
+      build: false
+      suffix: ''

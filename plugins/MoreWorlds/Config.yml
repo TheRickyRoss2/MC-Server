@@ -1,0 +1,7 @@
+moreworlds:
+  config:
+    loadonstatup: true
+    useWorldInventorys: false
+    UseMetrics: true
+  portals:
+    signprefix: '[WorldTP]'

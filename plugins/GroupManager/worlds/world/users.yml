@@ -1,0 +1,50 @@
+users:
+  3bc56bce-3acd-4cce-b39a-ee8246af3d78:
+    lastname: goofyboy13
+    group: Owner
+    subgroups: []
+    permissions: []
+  a2aa5d5a-68af-412a-b5ec-f43666abceab:
+    lastname: Mr_yoshi
+    group: Admin
+    subgroups: []
+    permissions: []
+  a7e3134e-48ef-4a9c-9656-9ba17d3acb46:
+    lastname: 5chickens
+    group: Builder
+    subgroups: []
+    permissions:
+    - WorldEdit
+  be87b7b6-cd7e-4ce8-a8d7-038b1dcb92c7:
+    lastname: TheRicRoss
+    group: Dev
+    subgroups: []
+    permissions: []
+  ca1a3e92-35ad-4010-bdbd-dfc03024d29c:
+    lastname: JBlastB
+    group: Owner
+    subgroups: []
+    permissions: []
+  ElgarL:
+    group: Moderator
+    subgroups: []
+    permissions:
+    - groupmanager.noofflineperms
+  f679468d-c550-4d8f-bec6-74aaf709add8:
+    lastname: HockeyMonkey02
+    group: Default
+    subgroups: []
+    permissions:
+    - Admin
+    info:
+      prefix: '&4Admin'
+  KHobbits:
+    group: Moderator
+    subgroups: []
+    permissions:
+    - groupmanager.noofflineperms
+  snowleo:
+    group: Builder
+    subgroups: []
+    permissions:
+    - groupmanager.noofflineperms

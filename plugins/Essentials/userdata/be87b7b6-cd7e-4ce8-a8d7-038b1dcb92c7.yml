@@ -1,0 +1,39 @@
+lastAccountName: TheRicRoss
+timestamps:
+  login: 1458565447847
+  lastteleport: 1458565361636
+  logout: 1458565442693
+  kits:
+    noob: 1424308273693
+    pvp: 1424133245050
+    donor: 1424133430470
+    donator: 1424308023444
+    n00b: 1424131472888
+    y: 1424133005553
+ipAddress: 127.0.0.1
+logoutlocation:
+  world: boneyard
+  x: -55.27646693314696
+  y: 78.0
+  z: 123.59197178123561
+  yaw: -350.64233
+  pitch: -8.099982
+lastlocation:
+  world: boneyard
+  x: 781.2560402222898
+  y: 69.0
+  z: -751.0583738360311
+  yaw: -64.44266
+  pitch: 15.785283
+nickname: "\xa74TheRicRoss"
+afk: false
+homes:
+  hockeymonkey02:
+    world: boneyard
+    x: 781.4803636795285
+    y: 67.48436558958682
+    z: -77.45957278438446
+    yaw: 87.37723
+    pitch: 74.85001
+godmode: false
+money: '100064929296.0'

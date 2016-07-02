@@ -1,0 +1,30 @@
+lastAccountName: Mind2400
+timestamps:
+  login: 1424309680178
+  logout: 1424305946927
+  lastteleport: 1424290077690
+  kits:
+    tools: 1424118373692
+    noob: 1424290128228
+    e: 1424133129693
+    pvp: 1424133332092
+    n00b: 1424131483764
+    y: 1424224358844
+ipAddress: 98.68.191.251
+logoutlocation:
+  world: boneyard
+  x: -56.56448335565623
+  y: 78.0
+  z: 185.1931350551186
+  yaw: -177.16779
+  pitch: 13.724917
+lastlocation:
+  world: boneyard
+  x: -68.40703683233293
+  y: 77.11511073758629
+  z: 193.30000001192093
+  yaw: -126.585556
+  pitch: 23.781067
+afk: false
+nickname: §2§kJ§4§o§l§nMind§5§o§l§n2400§2§kJ
+money: '199500.0'

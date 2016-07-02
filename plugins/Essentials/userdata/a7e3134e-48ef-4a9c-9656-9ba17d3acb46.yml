@@ -1,0 +1,33 @@
+lastAccountName: 5chickens
+timestamps:
+  login: 1424144925875
+  logout: 1424145775303
+  lastteleport: 1424144023592
+  kits:
+    noob: 1424143133196
+ipAddress: 76.176.127.203
+logoutlocation:
+  world: staffworld
+  x: 49.5771233693683
+  y: 31.612123011779975
+  z: 162.9636290786263
+  yaw: -203.82584
+  pitch: 64.95016
+lastlocation:
+  world: boneyard
+  x: -39.1736394900157
+  y: 70.0
+  z: 223.12430175210042
+  yaw: -152.84785
+  pitch: 21.007292
+nickname: §3§lCamaug
+afk: false
+socialspy: false
+homes:
+  home:
+    world: staffworld
+    x: 37.01676170003199
+    y: 4.0
+    z: 142.3449674261429
+    yaw: 141.174
+    pitch: 31.34999

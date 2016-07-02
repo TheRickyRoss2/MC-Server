@@ -1,0 +1,369 @@
+# Citizens NPC Storage
+
+
+last-created-npc-id: 54
+npc:
+  '30':
+    metadata:
+      cached-skin-uuid: 62edafe5-331b-416e-8cab-de13e5f5422d
+      cached-skin-uuid-name: Gabi988
+    name: Gabi988
+    uuid: da14cbf4-7a8c-41fd-8879-d36df72ef288
+    traits:
+      inventory: {}
+      spawned: true
+      location:
+        world: boneyard
+        x: '-177.69999998807907'
+        y: '82.0'
+        z: '-125.4422778352543'
+        yaw: '-87.80036163330078'
+        pitch: '20.295873641967773'
+      owner:
+        owner: goofyboy13
+        uuid: 3bc56bce-3acd-4cce-b39a-ee8246af3d78
+    traitnames: location,type,owner,spawned,inventory
+    navigator:
+      pathfindingrange: '25.0'
+      stationaryticks: -1
+      speedmodifier: '1.0'
+      avoidwater: false
+      usedefaultstuckaction: true
+  '28':
+    metadata:
+      cached-skin-uuid: a2aa5d5a-68af-412a-b5ec-f43666abceab
+      cached-skin-uuid-name: Mr_yoshi
+    name: Mr_yoshi
+    uuid: cb50e951-b0f7-4899-95cb-9aedd8d3f87f
+    traits:
+      inventory: {}
+      spawned: true
+      location:
+        world: boneyard
+        x: '31.498992109114006'
+        y: '71.0'
+        z: '33.61234891267924'
+        yaw: '51.414947509765625'
+        pitch: '-16.349939346313477'
+      owner:
+        owner: Mr_yoshi
+        uuid: a2aa5d5a-68af-412a-b5ec-f43666abceab
+    traitnames: location,type,owner,spawned,inventory
+    navigator:
+      pathfindingrange: '25.0'
+      stationaryticks: -1
+      speedmodifier: '1.0'
+      avoidwater: false
+      usedefaultstuckaction: true
+  '27':
+    metadata:
+      cached-skin-uuid: f679468d-c550-4d8f-bec6-74aaf709add8
+      cached-skin-uuid-name: HockeyMonkey02
+    name: HockeyMonkey02
+    uuid: 0cd02c35-73fc-4422-9003-20f1891d5601
+    traits:
+      inventory: {}
+      spawned: true
+      location:
+        world: boneyard
+        x: '30.60564222998235'
+        y: '71.0'
+        z: '32.304774435694554'
+        yaw: '38.86332321166992'
+        pitch: '-7.020688533782959'
+      owner:
+        owner: goofyboy13
+        uuid: 3bc56bce-3acd-4cce-b39a-ee8246af3d78
+    traitnames: location,type,owner,spawned,inventory
+    navigator:
+      pathfindingrange: '25.0'
+      stationaryticks: -1
+      speedmodifier: '1.0'
+      avoidwater: false
+      usedefaultstuckaction: true
+  '26':
+    metadata:
+      cached-skin-uuid: 772c55c9-6200-4a9d-8d9f-ef0282a41ae7
+      cached-skin-uuid-name: Mind2400
+    name: Mind2400
+    uuid: ba4b6ddf-8803-4730-b3a5-ed1c444c4ce8
+    traits:
+      inventory: {}
+      spawned: true
+      location:
+        world: boneyard
+        x: '29.728445599890488'
+        y: '72.0'
+        z: '31.347273900337953'
+        yaw: '35.37811279296875'
+        pitch: '-13.515779495239258'
+      owner:
+        owner: goofyboy13
+        uuid: 3bc56bce-3acd-4cce-b39a-ee8246af3d78
+    traitnames: location,type,owner,spawned,inventory
+    navigator:
+      pathfindingrange: '25.0'
+      stationaryticks: -1
+      speedmodifier: '1.0'
+      avoidwater: false
+      usedefaultstuckaction: true
+  '23':
+    metadata:
+      cached-skin-uuid: 3bc56bce-3acd-4cce-b39a-ee8246af3d78
+      cached-skin-uuid-name: goofyboy13
+    name: goofyboy13
+    uuid: 81c72e54-b3c1-41c5-82cc-ff9bfda03c91
+    traits:
+      inventory: {}
+      spawned: true
+      location:
+        world: boneyard
+        x: '28.720149383145678'
+        y: '73.0'
+        z: '30.409182224496135'
+        yaw: '-316.9483642578125'
+        pitch: '-9.469710350036621'
+      owner:
+        owner: goofyboy13
+        uuid: 3bc56bce-3acd-4cce-b39a-ee8246af3d78
+    traitnames: location,type,owner,spawned,inventory
+    navigator:
+      pathfindingrange: '25.0'
+      stationaryticks: -1
+      speedmodifier: '1.0'
+      avoidwater: false
+      usedefaultstuckaction: true
+  '21':
+    metadata:
+      cached-skin-uuid: be87b7b6-cd7e-4ce8-a8d7-038b1dcb92c7
+      cached-skin-uuid-name: TheRicRoss
+    name: TheRicRoss
+    uuid: 44c4a62c-3690-473b-b59a-e4f89dbd31ee
+    traits:
+      inventory: {}
+      spawned: true
+      location:
+        world: boneyard
+        x: '32.717048204983854'
+        y: '72.0'
+        z: '34.37883146680247'
+        yaw: '-328.9112548828125'
+        pitch: '4.000136375427246'
+      owner:
+        owner: goofyboy13
+        uuid: 3bc56bce-3acd-4cce-b39a-ee8246af3d78
+    traitnames: location,type,owner,spawned,inventory
+    navigator:
+      pathfindingrange: '25.0'
+      stationaryticks: -1
+      speedmodifier: '1.0'
+      avoidwater: false
+      usedefaultstuckaction: true
+  '38':
+    metadata:
+      cached-skin-uuid: 3bc56bce-3acd-4cce-b39a-ee8246af3d78
+      cached-skin-uuid-name: goofyboy13
+    name: goofyboy13
+    uuid: a9d71b70-11d2-408a-bf60-c5a8f8d79233
+    traits:
+      inventory: {}
+      spawned: true
+      location:
+        world: boneyard
+        x: '-178.69999998807907'
+        y: '-82733.39999935706'
+        z: '-138.30000001192093'
+        yaw: '275.4903564453125'
+        pitch: '40.170963287353516'
+      owner:
+        owner: goofyboy13
+        uuid: 3bc56bce-3acd-4cce-b39a-ee8246af3d78
+    traitnames: location,type,owner,spawned,inventory
+    navigator:
+      pathfindingrange: '25.0'
+      stationaryticks: -1
+      speedmodifier: '1.0'
+      avoidwater: false
+      usedefaultstuckaction: true
+  '36':
+    metadata:
+      cached-skin-uuid: 751c48a0-4945-4b8c-930c-4280267d03eb
+      cached-skin-uuid-name: CreatorOfChaos
+    name: CreatorOfChaos
+    uuid: 7e646750-d49b-4d49-9f4f-3ba1d86da199
+    traits:
+      inventory: {}
+      spawned: true
+      location:
+        world: boneyard
+        x: '-177.69999998807907'
+        y: '82.0'
+        z: '-127.69999998807907'
+        yaw: '273.1790771484375'
+        pitch: '21.897201538085938'
+      owner:
+        owner: goofyboy13
+        uuid: 3bc56bce-3acd-4cce-b39a-ee8246af3d78
+    traitnames: location,type,owner,spawned,inventory
+    navigator:
+      pathfindingrange: '25.0'
+      stationaryticks: -1
+      speedmodifier: '1.0'
+      avoidwater: false
+      usedefaultstuckaction: true
+  '33':
+    metadata:
+      cached-skin-uuid: 4d30a88b-0418-4222-b4a2-71ee5463e386
+      cached-skin-uuid-name: Camer047
+    name: Camer047
+    uuid: bfbfdcc3-d63c-44bf-b47d-5c63db6c8d27
+    traits:
+      inventory: {}
+      spawned: true
+      location:
+        world: boneyard
+        x: '-177.69999998807907'
+        y: '82.0'
+        z: '-124.31234845891595'
+        yaw: '282.12774658203125'
+        pitch: '33.765743255615234'
+      owner:
+        owner: goofyboy13
+        uuid: 3bc56bce-3acd-4cce-b39a-ee8246af3d78
+    traitnames: location,type,owner,spawned,inventory
+    navigator:
+      pathfindingrange: '25.0'
+      stationaryticks: -1
+      speedmodifier: '1.0'
+      avoidwater: false
+      usedefaultstuckaction: true
+  '31':
+    metadata:
+      cached-skin-uuid: 3d444a94-6b41-407c-9ca4-8c75c2abcabe
+      cached-skin-uuid-name: Knutii
+    name: Knutii
+    uuid: 470d1d3e-1117-489c-81ad-e9fe4487675d
+    traits:
+      inventory: {}
+      spawned: true
+      location:
+        world: boneyard
+        x: '-177.6985175885493'
+        y: '82.0'
+        z: '-126.36835865513332'
+        yaw: '-89.02490997314453'
+        pitch: '8.709917068481445'
+      owner:
+        owner: goofyboy13
+        uuid: 3bc56bce-3acd-4cce-b39a-ee8246af3d78
+    traitnames: location,type,owner,spawned,inventory
+    navigator:
+      pathfindingrange: '25.0'
+      stationaryticks: -1
+      speedmodifier: '1.0'
+      avoidwater: false
+      usedefaultstuckaction: true
+  '43':
+    metadata:
+      cached-skin-uuid: ca1a3e92-35ad-4010-bdbd-dfc03024d29c
+      cached-skin-uuid-name: JBlastB
+    name: JBlastB
+    uuid: 04584765-2827-4906-a817-9473b97305cf
+    traits:
+      inventory: {}
+      spawned: true
+      location:
+        world: boneyard
+        x: '33.73389146886785'
+        y: '73.0'
+        z: '35.49233337270666'
+        yaw: '65.921142578125'
+        pitch: '9.899996757507324'
+      owner:
+        owner: JBlastB
+        uuid: ca1a3e92-35ad-4010-bdbd-dfc03024d29c
+    traitnames: location,type,owner,spawned,inventory
+    navigator:
+      pathfindingrange: '25.0'
+      stationaryticks: -1
+      speedmodifier: '1.0'
+      avoidwater: false
+      usedefaultstuckaction: true
+  '42':
+    metadata:
+      cached-skin-uuid: a7e3134e-48ef-4a9c-9656-9ba17d3acb46
+      cached-skin-uuid-name: 5chickens
+    name: 5chickens
+    uuid: 69695f85-390b-4034-b20b-884754a4e999
+    traits:
+      inventory: {}
+      spawned: true
+      location:
+        world: boneyard
+        x: '30.699999988079067'
+        y: '68.0'
+        z: '33.30000001192093'
+        yaw: '-296.32684326171875'
+        pitch: '3.8999979496002197'
+      owner:
+        owner: HockeyMonkey02
+        uuid: f679468d-c550-4d8f-bec6-74aaf709add8
+    traitnames: location,type,owner,spawned,inventory
+    navigator:
+      pathfindingrange: '25.0'
+      stationaryticks: -1
+      speedmodifier: '1.0'
+      avoidwater: false
+      usedefaultstuckaction: true
+  '53':
+    metadata:
+      cached-skin-uuid: 62edafe5-331b-416e-8cab-de13e5f5422d
+      cached-skin-uuid-name: Gabi988
+    name: Gabi988
+    uuid: 49eb4e19-4657-4ecc-bdf1-bd46c41ad433
+    traits:
+      inventory: {}
+      location:
+        world: boneyard
+        x: '-177.69346737209707'
+        y: '82.0'
+        z: '-127.48580222540762'
+        yaw: '-86.17532348632812'
+        pitch: '7.5000224113464355'
+      spawned: true
+      owner:
+        owner: HockeyMonkey02
+        uuid: f679468d-c550-4d8f-bec6-74aaf709add8
+    traitnames: location,type,owner,spawned,inventory
+    navigator:
+      pathfindingrange: '25.0'
+      stationaryticks: -1
+      speedmodifier: '1.0'
+      avoidwater: false
+      usedefaultstuckaction: true
+  '52':
+    metadata:
+      cached-skin-uuid: 3d444a94-6b41-407c-9ca4-8c75c2abcabe
+      cached-skin-uuid-name: Knutii
+    name: Knutii
+    uuid: 8fd72000-eeb7-4eab-adb5-be172e0e04af
+    traits:
+      inventory: {}
+      location:
+        world: boneyard
+        x: '-177.69999998807907'
+        y: '82.0'
+        z: '-124.30000001192093'
+        yaw: '-91.12533569335938'
+        pitch: '27.70956802368164'
+      spawned: true
+      owner:
+        owner: HockeyMonkey02
+        uuid: f679468d-c550-4d8f-bec6-74aaf709add8
+    traitnames: location,type,owner,spawned,inventory
+    navigator:
+      pathfindingrange: '25.0'
+      stationaryticks: -1
+      speedmodifier: '1.0'
+      avoidwater: false
+      usedefaultstuckaction: true

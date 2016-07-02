@@ -1,0 +1,164 @@
+a:
+  location: boneyard, -56.476, 148.200, -48.345
+  lines:
+  - '&3&lWelcome to A!'
+b:
+  location: boneyard, -26.479, 148.200, -49.282
+  lines:
+  - '&3&lWelcome to B!'
+c:
+  location: boneyard, -6.464, 150.200, -49.298
+  lines:
+  - '&3&lWelcome to C!'
+d:
+  location: boneyard, 11.513, 150.200, -49.439
+  lines:
+  - '&3&lWelcome to D!'
+e:
+  location: boneyard, 33.566, 150.200, -50.331
+  lines:
+  - '&3&lWelcome to E!'
+g:
+  location: boneyard, 63.485, 151.200, -53.689
+  lines:
+  - '&3&lWelcome to G!'
+h:
+  location: boneyard, 80.453, 151.200, -54.846
+  lines:
+  - '&3&lWelcome to H!'
+i:
+  location: boneyard, 97.565, 151.200, -58.201
+  lines:
+  - '&3&lWelcome to I!'
+m:
+  location: boneyard, 156.577, 152.200, -59.453
+  lines:
+  - '&3&lWelcome to M!'
+n:
+  location: boneyard, 181.415, 152.200, -59.198
+  lines:
+  - '&3&lWelcome to N!'
+o:
+  location: boneyard, 199.487, 155.200, -59.240
+  lines:
+  - '&3&lWelcome to O!'
+p:
+  location: boneyard, 214.517, 155.200, -59.583
+  lines:
+  - '&3&lWelcome to P!'
+q:
+  location: boneyard, 229.462, 155.200, -58.706
+  lines:
+  - '&3&lWelcome to Q!'
+r:
+  location: boneyard, 249.551, 155.200, -59.273
+  lines:
+  - '&3&lWelcome to R!'
+s:
+  location: boneyard, 266.276, 157.200, -60.881
+  lines:
+  - '&3&lWelcome to S!'
+k:
+  location: boneyard, 128.206, 152.200, -58.483
+  lines:
+  - '&3&lWelcome to K!'
+j:
+  location: boneyard, 113.978, 151.200, -57.651
+  lines:
+  - '&3&lWelcome to J!'
+t:
+  location: boneyard, 281.523, 157.200, -60.442
+  lines:
+  - '&3&lWelcome to T!'
+u:
+  location: boneyard, 294.479, 157.200, -60.160
+  lines:
+  - '&3&lWelcome to U!'
+v:
+  location: boneyard, 309.598, 157.200, -61.651
+  lines:
+  - '&3&lWelcome to V!'
+w:
+  location: boneyard, 322.633, 157.200, -61.141
+  lines:
+  - '&3&lWelcome to W!'
+x:
+  location: boneyard, 337.508, 157.200, -61.183
+  lines:
+  - '&3&lWelcome to X!'
+y:
+  location: boneyard, 351.499, 157.200, -62.046
+  lines:
+  - '&3&lWelcome to Y!'
+z:
+  location: boneyard, 366.506, 157.200, -61.573
+  lines:
+  - '&3&lWelcome to Z!'
+staff:
+  location: boneyard, 23.833, 68.200, 34.331
+  lines:
+  - '&4&lWelcome to staff'
+noob:
+  location: boneyard, 156.494, 152.200, -60.305
+  lines:
+  - '&4&n&lYouCan&1&n&lNowUse&2&n&l/Kit pvp'
+goofy:
+  location: boneyard, 29.002, 76.001, 30.202
+  lines:
+  - '&3&lOwner'
+jblastb:
+  location: boneyard, 33.620, 75.902, 35.303
+  lines:
+  - '&3&lOwner'
+hockeymonkey02:
+  location: boneyard, 30.373, 73.902, 32.421
+  lines:
+  - '&4&lAdmin'
+mr_yoshi:
+  location: boneyard, 31.451, 73.904, 33.449
+  lines:
+  - '&4&lAdmin'
+thericross:
+  location: boneyard, 32.941, 75.282, 34.181
+  lines:
+  - '&5&lDev'
+mind2400:
+  location: boneyard, 29.776, 74.894, 31.239
+  lines:
+  - '&5&lDev'
+builder:
+  location: boneyard, 30.814, 71.865, 33.387
+  lines:
+  - '&6&lBuilder'
+f:
+  location: boneyard, 48.494, 154.200, -52.451
+  lines:
+  - '&3&lWelcome To F!'
+l:
+  location: boneyard, 141.454, 152.200, -58.443
+  lines:
+  - '&3&lWelcome To L!'
+staffworld:
+  location: staffworld, -0.059, 5.200, 4.152
+  lines:
+  - '&4&l&nWelcome To&a&l&nStaffworld!'
+spawn:
+  location: boneyard, -57.444, 79.200, 176.954
+  lines:
+  - '&5&l&nWel&a&l&ncome&c&l&nTo&e&l&nWitherCraft Prison'
+kitnoob:
+  location: boneyard, -57.424, 79.200, 176.033
+  lines:
+  - '&5&n&lDo&e&l&n/kit Noob&d&n&lTo Get Started!'
+rules:
+  location: boneyard, 12.580, 72.200, -46.700
+  lines:
+  - '&4&n&lWelcome&1&l&nTo&2&l&nWarp Apply'
+oblivion_crate:
+  location: PlotWorld, -18.938, 83.621, 8.300
+  lines:
+  - '&1&k123&1Oblivion Crate&k321'
+crates:
+  location: boneyard, -22.242, 83.200, 177.899
+  lines:
+  - '&4&n&l&oWelcome&2&l&n&oTo&6&l&o&n/Warp crates'

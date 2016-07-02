@@ -1,0 +1,47 @@
+lastAccountName: Mr_yoshi
+timestamps:
+  login: 1424308704155
+  logout: 1424308694003
+  lastteleport: 1424308632324
+  kits:
+    noob: 1424151134543
+    e: 1424132736810
+    pvp: 1424133185665
+    color: 1424041356162
+    donor: 1424147111625
+    firework: 1424216360926
+    donator: 1424299381229
+    n00b: 1424131147253
+    y: 1424133002634
+    i: 1424132739721
+  mute: 0
+ipAddress: 174.52.161.53
+logoutlocation:
+  world: boneyard
+  x: -55.1828420984755
+  y: 84.81140411604609
+  z: 127.91089333937131
+  yaw: 35.99982
+  pitch: 12.899985
+nickname: §3§lM§a§lr§c§lY§6§l§0§lo§4§ls§1§lh§5§li
+lastlocation:
+  world: boneyard
+  x: -62.38312782284981
+  y: 78.41999998688698
+  z: 119.80488344044399
+  yaw: -12.600182
+  pitch: -29.700016
+money: '58510682000.0'
+afk: false
+socialspy: true
+godmode: false
+homes:
+  home:
+    world: boneyard
+    x: -57.86014927360158
+    y: 137.0
+    z: -61.46728663097562
+    yaw: -344.5536
+    pitch: 31.350069
+muted: false
+teleportenabled: true

@@ -1,0 +1,34 @@
+lastAccountName: JBlastB
+timestamps:
+  login: 1424310849438
+  lastteleport: 1424310987110
+  logout: 1424296155617
+  kits:
+    u: 1424132948759
+    noob: 1424187978197
+    e: 1424132928418
+    pvp: 1424133030092
+    dtools: 1424216352325
+    o: 1424132942007
+    n00b: 1424131484170
+    y: 1424132995200
+    i: 1424132935889
+ipAddress: 50.133.25.90
+nickname: §6§kJ§4§l§n§oJ§c§l§n§oB§1§l§n§ol§3§l§n§oa§2§l§n§os§5§n§l§ot§9§n§l§oB§6§kJ
+lastlocation:
+  world: boneyard
+  x: -34.557877833529226
+  y: 79.5
+  z: 179.14774400304128
+  yaw: -250.89288
+  pitch: 31.199995
+logoutlocation:
+  world: boneyard
+  x: -64.84982953308793
+  y: 78.0
+  z: 182.4374061985436
+  yaw: -188.04314
+  pitch: 20.549988
+socialspy: true
+afk: false
+godmode: false

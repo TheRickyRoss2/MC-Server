@@ -1,0 +1,44 @@
+signs:
+  boneyard,-7,149,-54:
+    redstone: false
+    owner: TheRicRoss
+    text:
+    - /mrl reset C -s
+    active: true
+    cooldowns: {}
+  boneyard,-57,147,-53:
+    redstone: false
+    owner: TheRicRoss
+    text:
+    - /mrl reset A -s
+    active: true
+    cooldowns: {}
+  boneyard,366,156,-66:
+    redstone: false
+    owner: TheRicRoss
+    text:
+    - \===========
+    - /mrl reset Z -s
+    active: true
+    cooldowns: {}
+  boneyard,11,149,-55:
+    redstone: false
+    owner: TheRicRoss
+    text:
+    - /mrl reset D -s
+    active: true
+    cooldowns: {}
+  boneyard,-27,147,-53:
+    redstone: false
+    owner: TheRicRoss
+    text:
+    - /mrl reset B -s
+    active: true
+    cooldowns: {}
+  boneyard,-25,146,-52:
+    redstone: false
+    owner: TheRicRoss
+    text:
+    - /mrl reset B -s
+    active: true
+    cooldowns: {}

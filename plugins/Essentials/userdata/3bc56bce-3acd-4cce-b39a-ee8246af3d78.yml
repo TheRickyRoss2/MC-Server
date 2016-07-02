@@ -1,0 +1,36 @@
+lastAccountName: goofyboy13
+timestamps:
+  login: 1424309785678
+  lastteleport: 1424308495770
+  logout: 1424308836572
+  kits:
+    noob: 1424308132276
+    e: 1424132958785
+    pvp: 1424133172554
+    donor: 1424136423658
+    o: 1424132971320
+    donator: 1424308443620
+    n00b: 1424131487393
+    y: 1424132925654
+    i: 1424132965599
+ipAddress: 70.127.105.160
+nickname: §0§kj§4§l§n§oG§6§l§n§oo§e§l§n§oo§2§l§n§of§3§l§n§oy§5§l§n§ob§d§l§n§oo§1§l§n§oy§0§kj
+afk: false
+lastlocation:
+  world: boneyard
+  x: -57.64602298739516
+  y: 137.0
+  z: -59.30000001192093
+  yaw: -6.0613947
+  pitch: 24.817186
+homes: {}
+logoutlocation:
+  world: boneyard
+  x: -56.80770549887127
+  y: 148.0
+  z: -43.30607077076697
+  yaw: -16.630371
+  pitch: 72.29138
+money: '4235000.0'
+socialspy: true
+godmode: false

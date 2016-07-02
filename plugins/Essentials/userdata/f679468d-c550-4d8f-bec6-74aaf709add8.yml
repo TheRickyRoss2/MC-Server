@@ -1,0 +1,47 @@
+lastAccountName: HockeyMonkey02
+timestamps:
+  login: 1424300104267
+  lastteleport: 1424296777147
+  logout: 1424300196539
+  kits:
+    tools: 1424097925819
+    noob: 1424188120544
+    firework: 1424216372679
+    donor: 1424143414590
+    y: 1424143464397
+  mute: 0
+ipAddress: 166.170.22.151
+lastlocation:
+  world: boneyard
+  x: -52.30000001192093
+  y: 79.0
+  z: 159.69999998807907
+  yaw: 16.006348
+  pitch: 39.982536
+nickname: §c§l§oHockey§4§l§oMonkey§a§l§o§n02
+afk: false
+logoutlocation:
+  world: boneyard
+  x: -50.5
+  y: 79.0
+  z: 188.5
+  yaw: 63.9
+  pitch: -86.55
+money: '0'
+homes:
+  home:
+    world: boneyard
+    x: -59.13749998807904
+    y: 93.20000004768372
+    z: 178.82275688469224
+    yaw: -109.05017
+    pitch: 43.199993
+  hi:
+    world: boneyard
+    x: -58.12130206239914
+    y: 93.20000004768372
+    z: 177.70164651319075
+    yaw: -109.05017
+    pitch: 43.199993
+godmode: false
+muted: false
